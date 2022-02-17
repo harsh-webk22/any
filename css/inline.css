@@ -1,0 +1,83 @@
+.center{
+    text-align: center;
+}
+
+.inline1{
+    z-index: 3;
+}
+
+.inline2{
+    z-index: 4; 
+    font-size: 50px; 
+    color: #fff; 
+    letter-spacing: -1px; 
+    text-shadow: 0 1px 0 rgba(0,0,0,0.2); 
+    font-weight: 300; 
+    line-height: 60px;
+}
+
+.inline3{
+    z-index: 5; 
+    font-size: 
+    18px; color: rgba(250,250,250,0.85); 
+    font-weight: 300; 
+    line-height: 28px;
+}
+
+.inline4{
+    z-index: 6;
+}
+
+.inline5{
+    z-index: 3;
+}
+
+.inline6{
+    z-index: 4; 
+    font-size: 50px; 
+    color: #fff; 
+    letter-spacing: -1px; 
+    text-shadow: 0 1px 0 rgba(0,0,0,0.2); 
+    font-weight: 300; 
+    line-height: 60px;
+}
+
+.inline7{
+    z-index: 5; font-size: 18px; color: rgba(250,250,250,0.85); font-weight: 300; line-height: 28px;
+}
+
+.inline8{
+    z-index: 4
+}
+
+.inline9{
+    z-index: 5;
+}
+
+.inline10{
+    z-index: 7; font-size: 50px; color: #fff; letter-spacing: -1px; text-shadow: 0 1px 0 rgba(0,0,0,0.2); font-weight: 300; line-height: 60px;
+}
+
+.inline11{
+    z-index: 8; font-size: 18px; color: rgba(250,250,250,0.85); font-weight: 300; line-height: 28px;
+}
+
+.inline12{
+    z-index: 9;
+}
+
+.inline13{
+    background-image: url(../img_external/gallery/consulting.jpg);
+}
+
+.inline14{
+    background: rgba(30, 35, 41, 0.7);
+}
+
+.inline15{
+    background-image: url(../img_external/gallery/new-york.jpg);
+}
+
+.inline16{
+    background: url(../img/hexagon.png) repeat;
+}
